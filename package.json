@@ -1,0 +1,19 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "firebase test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mymarmalade/vscodetest.git"
+  },
+  "author": "Mohammad Tavakoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mymarmalade/vscodetest/issues"
+  },
+  "homepage": "https://github.com/mymarmalade/vscodetest#readme"
+}
